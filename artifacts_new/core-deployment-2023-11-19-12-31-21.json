@@ -1,0 +1,82 @@
+{
+  "basegoerli": {
+    "merkleRootMultisigIsmFactory": "0x6966b0E55883d49BFB24539356a2f8A673E02039",
+    "messageIdMultisigIsmFactory": "0x54148470292C24345fb828B003461a9444414517",
+    "aggregationIsmFactory": "0x589C201a07c26b4725A4A829d772f24423da480B",
+    "aggregationHookFactory": "0xDDcFEcF17586D08A5740B7D91735fcCE3dfe3eeD",
+    "routingIsmFactory": "0x33dB966328Ea213b0f76eF96CA368AB37779F065",
+    "multisigIsm": "0x2ce1E471CDf5d93Cf3f1D61d5342DA6bD67538E6"
+  },
+  "sepolia": {
+    "merkleRootMultisigIsmFactory": "0x0a71AcC99967829eE305a285750017C4916Ca269",
+    "messageIdMultisigIsmFactory": "0xFEb9585b2f948c1eD74034205a7439261a9d27DD",
+    "aggregationIsmFactory": "0xC83e12EF2627ACE445C298e6eC418684918a6002",
+    "aggregationHookFactory": "0x160C28C92cA453570aD7C031972b58d5Dd128F72",
+    "routingIsmFactory": "0x3603458990BfEb30f99E61B58427d196814D8ce1",
+    "multisigIsm": "0x7Fe78eCdE98F19598f27c5D735D542376eDb86Ef"
+  },
+  "mantletestnet": {
+    "merkleRootMultisigIsmFactory": "0x1151F98ee70a8D640250BC00bCb94F55ab652581",
+    "messageIdMultisigIsmFactory": "0x100A51B46D2bEd6CcCDC1A9792881A8eD7349E1E",
+    "aggregationIsmFactory": "0xF5072E2C4bf2AA53eFe4ce25545a315497AD10EF",
+    "aggregationHookFactory": "0x199A199B680E61980d3DFB0c6D46754CF23Efb6f",
+    "routingIsmFactory": "0x2FC38Afad493dB7a3049f0B8CB1a7d538C67f286",
+    "multisigIsm": "0x870b703F54a4B3Bb203C71DEEb0fc354B078F275"
+  },
+  "celestiabubs": {
+    "merkleRootMultisigIsmFactory": "0x5E08D920B38a62a779eb1748564f8776Bb55bb0A",
+    "messageIdMultisigIsmFactory": "0x1151F98ee70a8D640250BC00bCb94F55ab652581",
+    "aggregationIsmFactory": "0x100A51B46D2bEd6CcCDC1A9792881A8eD7349E1E",
+    "aggregationHookFactory": "0xF5072E2C4bf2AA53eFe4ce25545a315497AD10EF",
+    "routingIsmFactory": "0x199A199B680E61980d3DFB0c6D46754CF23Efb6f",
+    "multisigIsm": "0x97F04427ab0c77bd220Ef03E7d599a0A3326adCF"
+  },
+  "xdcapothem": {
+    "merkleRootMultisigIsmFactory": "0x1151f98ee70a8d640250bc00bcb94f55ab652581",
+    "messageIdMultisigIsmFactory": "0x100a51b46d2bed6cccdc1a9792881a8ed7349e1e",
+    "aggregationIsmFactory": "0xf5072e2c4bf2aa53efe4ce25545a315497ad10ef",
+    "aggregationHookFactory": "0x199a199b680e61980d3dfb0c6d46754cf23efb6f",
+    "routingIsmFactory": "0x2fc38afad493db7a3049f0b8cb1a7d538c67f286",
+    "multisigIsm": "0x870b703F54a4B3Bb203C71DEEb0fc354B078F275"
+  },
+  "alfajores": {
+    "merkleRootMultisigIsmFactory": "0xa9C7e306C0941896CA1fd528aA59089571D8D67E",
+    "messageIdMultisigIsmFactory": "0xC1b8c0e56D6a34940Ee2B86172450B54AFd633A7",
+    "aggregationIsmFactory": "0x4bE8AC22f506B1504C93C3A5b1579C5e7c550D9C",
+    "aggregationHookFactory": "0x71bB34Ee833467443628CEdFAA188B2387827Cee",
+    "routingIsmFactory": "0x37308d498bc7B0f002cb02Cf8fA01770dC2169c8",
+    "multisigIsm": "0x71c12493fB9168516A266CC12f2E9B98a16CCD57"
+  },
+  "goerli": {
+    "merkleRootMultisigIsmFactory": "0x8e43aCfb338B137A3befd9b92BfD84E128adE0B8",
+    "messageIdMultisigIsmFactory": "0xDdB54502A8e2a31C48148C62A8a9E83a693d6173",
+    "aggregationIsmFactory": "0x8a176773d54292123d271FA0B9C7C8Def4c3a31b",
+    "aggregationHookFactory": "0x6bc243963f80AEa80948e8538bB114d4122DD9c5",
+    "routingIsmFactory": "0xd16c3f34d6A2e62185aC61f76F83D3AA1E969018",
+    "multisigIsm": "0x9336cC9788A8D8ac3AC9D67225dD29B6C3E04A84"
+  },
+  "scrollsepolia": {
+    "merkleRootMultisigIsmFactory": "0x275aCcCa81cAD931dC6fB6E49ED233Bc99Bed4A7",
+    "messageIdMultisigIsmFactory": "0xeb6f11189197223c656807a83B0DD374f9A6dF44",
+    "aggregationIsmFactory": "0x16B710b86CAd07E6F1C531861a16F5feC29dba37",
+    "aggregationHookFactory": "0x44b764045BfDC68517e10e783E69B376cef196B2",
+    "routingIsmFactory": "0xC2E36cd6e32e194EE11f15D9273B64461A4D49A2",
+    "multisigIsm": "0x4177F4a2b830202630923E601aA856aB5eb609b7"
+  },
+  "polygonzkevmtestnet": {
+    "merkleRootMultisigIsmFactory": "0xfc6e546510dC9d76057F1f76633FCFfC188CB213",
+    "messageIdMultisigIsmFactory": "0x275aCcCa81cAD931dC6fB6E49ED233Bc99Bed4A7",
+    "aggregationIsmFactory": "0xeb6f11189197223c656807a83B0DD374f9A6dF44",
+    "aggregationHookFactory": "0x16B710b86CAd07E6F1C531861a16F5feC29dba37",
+    "routingIsmFactory": "0x44b764045BfDC68517e10e783E69B376cef196B2",
+    "multisigIsm": "0xE9A4950D7932A5345b332Ce6FbeeE98F04fCEc95"
+  },
+  "lineagoerli": {
+    "merkleRootMultisigIsmFactory": "0x5E08D920B38a62a779eb1748564f8776Bb55bb0A",
+    "messageIdMultisigIsmFactory": "0x1151F98ee70a8D640250BC00bCb94F55ab652581",
+    "aggregationIsmFactory": "0x100A51B46D2bEd6CcCDC1A9792881A8eD7349E1E",
+    "aggregationHookFactory": "0xF5072E2C4bf2AA53eFe4ce25545a315497AD10EF",
+    "routingIsmFactory": "0x199A199B680E61980d3DFB0c6D46754CF23Efb6f",
+    "multisigIsm": "0x97F04427ab0c77bd220Ef03E7d599a0A3326adCF"
+  }
+}

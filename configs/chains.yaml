@@ -1,0 +1,55 @@
+chilizspicy:
+  name: chilizspicy
+  chainId: 88882
+  domainId: 88882
+  protocol: ethereum
+  rpcUrls:
+    - http: https://spicy-rpc.chiliz.com/
+
+basegoerli:
+  name: basegoerli
+  chainId: 84531
+  domainId: 84531
+  protocol: ethereum
+  rpcUrls:
+    - http: https://goerli.base.org
+
+mantletestnet:
+  name: mantletestnet
+  chainId: 5001
+  domainId: 5001
+  protocol: ethereum
+  rpcUrls:
+    - http: https://rpc.testnet.mantle.xyz
+
+celestiabubs:
+  name: celestiabubs
+  chainId: 1582
+  domainId: 1582
+  protocol: ethereum
+  rpcUrls:
+    - http: https://bubs.calderachain.xyz/http
+
+xdcapothem:
+  name: xdcapothem
+  chainId: 51
+  domainId: 51
+  protocol: ethereum
+  rpcUrls:
+    - http: https://erpc.apothem.network
+
+neonevmtestnet:
+  name: neonevmtestnet
+  chainId: 245022926
+  domainId: 245022926
+  protocol: ethereum
+  rpcUrls:
+    - http: https://devnet.neonevm.org
+
+scrollsepolia:
+  name: scrollsepolia
+  chainId: 534351
+  domainId: 534351
+  protocol: ethereum
+  rpcUrls:
+    - http: https://sepolia-rpc.scroll.io/
